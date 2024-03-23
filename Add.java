@@ -5,6 +5,7 @@ public class Add {
 		// TODO Auto-generated method stub
 		
 		System.out.println(10+20);
+		System.out.println();
 
 	}
 
